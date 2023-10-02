@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+
+.comp1{
+  border: 2px solid black;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: yellow;
+}
+.comp2{
+  border: 2px solid black;
+  text-align: center;
+  background-color: green;
+}
+/* .components{
+  background-color: red;
+  margin-bottom: 100px;
+} */
+.childcomp1{
+  border: 2px solid black;
+  text-align: center;
+  /* background-color: green; */
+}
+.childcomp2{
+  border: 2px solid black;
+  text-align: center;
+  /* background-color: green; */
+}
+#comp3{
+  background-color:violet;
+  margin-bottom: 20px;
+}
+.changecolor{
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+  text-align: center;
+  
+}
+.contain{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  flex-direction: column;
+  gap: 20px;
+}
