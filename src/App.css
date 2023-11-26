@@ -61,6 +61,9 @@
     gap: 1.2rem;
     /* height: 100%; */
     height: fit-content;
+    border: 1px solid lightgrey;
+    padding: 6px;
+    border-radius: 10px;
 }
 
 .board_top {
@@ -89,6 +92,7 @@
     padding: 1rem;
     border-bottom: 1rem;
     overflow-y: auto;
+    border-radius: 1rem;
 }
 
 .chip {
@@ -112,7 +116,7 @@
 
 .card {
     padding: 0.8rem;
-    border-radius: 0.3rem;
+    border-radius: 1rem;
     background-color: #fff;
     display: flex;
     flex-direction: column;
@@ -422,7 +426,7 @@
         width: 260px;
     }
     .board{
-        width: 260px;
+        width: 277px;
     }
     .editable{
         width: 250px;
