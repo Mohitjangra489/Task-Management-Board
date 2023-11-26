@@ -408,10 +408,17 @@
         flex-direction: column;
     }
     .cardinfo{
-        width: 280px;
+        width: 256px;
     }
     .modal_close{
      /* display: block; */
      visibility: visible;
+    }
+    .app_navbar{
+        height: 30px;
+        font-size: 5px;
+    }
+    .board_cards{
+        width: 208px;
     }
 }
