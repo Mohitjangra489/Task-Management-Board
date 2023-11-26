@@ -265,7 +265,8 @@
     width: 10rem;
     padding: 0.8rem;
     border-radius: 3px;
-    box-shadow: 1px 0 20px rgba(0, 0, 0, 0.05);
+    /* box-shadow: 1px 0 20px rgba(0, 0, 0, 0.05); */
+    box-shadow: 4px -1px 7px -3px gray;
     text-align: center;
 }
 
@@ -278,7 +279,9 @@
     width: 10rem;
     padding: 0.8rem;
     border-radius: 3px;
-    box-shadow: 1px 0 20px rgba(0, 0, 0, 0.05);
+    /* box-shadow: 1px 0 20px rgba(0, 0, 0, 0.05); */
+    box-shadow: 4px -1px 7px -3px gray;
+
     text-align: center;
 }
 
