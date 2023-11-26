@@ -54,7 +54,7 @@
 }
 
 .board {
-    min-width: 37rem;
+    width: 37rem;
     max-height: 100%;
     display: flex;
     flex-direction: column;
@@ -418,6 +418,9 @@
         font-size: 10px;
     }
     .board_cards{
-        width: 236px;
+        width: 260px;
+    }
+    .board{
+        width: 260px;
     }
 }
