@@ -16,8 +16,8 @@ root.render(
       redirect_uri: window.location.origin
     }}>
     <App />
-    </Auth0Provider>,
-  </React.StrictMode>
+    </Auth0Provider>
+    </React.StrictMode>
 );
 
 // If you want to start measuring performance in your app, pass a function
