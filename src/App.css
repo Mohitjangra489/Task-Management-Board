@@ -423,4 +423,7 @@
     .board{
         width: 260px;
     }
+    .editable{
+        width: 250px;
+    }
 }
